@@ -1,0 +1,22 @@
+feature,auc_drop,std
+Contract_Month-to-month,0.056,0.0047
+tenure_months,0.0462,0.003
+InternetService_Fiber optic,0.0098,0.0042
+InternetService_No,0.0076,0.0029
+total_charges,0.0071,0.0014
+has_support_addon,0.006,0.0014
+monthly_charges,0.0054,0.0028
+Contract_Two year,0.0049,0.0016
+avg_monthly_paid,0.0039,0.0025
+PaymentMethod_Electronic check,0.0037,0.0013
+paperless,0.0022,0.0018
+n_services,0.0018,0.0008
+senior,0.0018,0.0004
+Contract_One year,0.0016,0.0004
+price_drift,0.0008,0.0013
+InternetService_DSL,0.0004,0.0002
+PaymentMethod_Mailed check,0.0002,0.0002
+PaymentMethod_Credit card (automatic),0.0,0.0
+has_partner,0.0,0.0001
+has_dependents,-0.0001,0.0003
+PaymentMethod_Bank transfer (automatic),-0.0001,0.0001

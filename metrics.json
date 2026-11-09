@@ -1,0 +1,17 @@
+{
+  "selected_model": "xgboost",
+  "n_train": 5634,
+  "n_test": 1409,
+  "churn_rate": 0.2654,
+  "test_auc": 0.847,
+  "test_auc_95ci": [
+    0.8249,
+    0.8679
+  ],
+  "test_pr_auc": 0.6679,
+  "pr_auc_baseline": 0.2654,
+  "brier": 0.1344,
+  "brier_baseline": 0.195,
+  "top_decile_lift": 2.93,
+  "top_decile_capture": 0.2914
+}
